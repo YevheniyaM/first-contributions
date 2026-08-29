@@ -19,5 +19,3 @@ jobs:
       - name: Show current date
         run: date
 
-      - name: Break the build
-        run: exit 1
